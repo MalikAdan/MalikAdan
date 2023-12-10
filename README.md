@@ -50,11 +50,11 @@
 
 ---
 
-### Blog Posts :
-  <li>
-  <a href="your-twitter-URL">     Blog1</a></li>
-  <li>
-  <a href="your-twitter-URL">     Blog2</a></li>
+### 📚 Useful Resources:
+  
+  - <a href="https://github.com/GeostatsGuy">GeostatsGuy</a>
+  
+  - <a href="https://docs.python-guide.org/">Hitchhiker’s Guide to Python</a>
 
 ---
 
