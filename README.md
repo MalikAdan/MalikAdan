@@ -11,7 +11,7 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://malikadan.github.io/adanmalik.github.io/Adan%20Malik-Resume.pdf">
+  <a href="https://malikadan.github.io/adanmalik.github.io/AdanMalikResume.pdf">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
