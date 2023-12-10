@@ -32,7 +32,7 @@
 
 - :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adan_Malik-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://pk.linkedin.com/in/adan-malik-85b815195))
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adan_Malik-blue?style=flat&logo=Linkedin&logoColor=white)](https://pk.linkedin.com/in/adan-malik-85b815195)
 
 ---
 
