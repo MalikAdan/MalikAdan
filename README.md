@@ -20,11 +20,6 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" height="300"/>
-  <!img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="500" height="300"/>
-  
-</div>
 </div>
 
 ---
@@ -70,3 +65,9 @@
 ---
 
 ![ezgif com-video-to-gif(1)](https://github.com/MalikAdan/ProfileContents-AM/assets/153263444/7a331724-e5e0-4d77-840b-7e2c2432bbfe)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" height="300"/>
+  <!img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="500" height="300"/>
+  
+</div>
