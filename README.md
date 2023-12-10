@@ -52,7 +52,7 @@
 
 ### 📚 Useful Resources:
   
-  - <a href="https://github.com/GeostatsGuy">GeostatsGuy</a>
+  - <a href="https://github.com/GeostatsGuy">GeostatsGuy (Michael Pyrcz)</a>
   
   - <a href="https://docs.python-guide.org/">Hitchhiker’s Guide to Python</a>
 
