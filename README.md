@@ -29,9 +29,9 @@
 
 ---
 
-### About Me :
+### 👩‍💻 About Me :
 
-- I am a Petroleum Engineer from Pakistan.
+- 👩‍💼 I am a Petroleum Engineer from Pakistan.
 
 - 🥇 I hold B.E. Petroleum Engineering with distinction from NED University of Engineering & Technology, flagship engineering institution of Pakistan. 
 
