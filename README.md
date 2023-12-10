@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <h1>
+    Adan Malik 
+  </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1scXYzcmZqcGxyMnNudXh0cTNwM2JycWdzZGV0N3Q3bTIwem03YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Exc6ymGbdFkeAVO/giphy.gif" width="200"/>
 
 <div id="badges">
@@ -28,13 +31,15 @@
 
 ### About Me :
 
-I am a Petroleum Engineer from Pakistan.
+- I am a Petroleum Engineer from Pakistan.
+
+- 🥇 I hold B.E. Petroleum Engineering with distinction from NED University of Engineering & Technology, flagship engineering institution of Pakistan. 
 
 - :telescope: I’m working as a Petroleum Engineer at Pakistan Petroleum Limited.
 
 - :seedling: Keeping myself up-to-date with latest trends and programming skills.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adan_Malik-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
