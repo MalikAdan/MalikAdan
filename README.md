@@ -34,7 +34,7 @@
 
 ---
 
-### Languages and Tools :
+### 🛠️ My Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@
   - <a href="https://docs.python-guide.org/">Hitchhiker’s Guide to Python</a>
 
 ---
-
+### 🌆 My GitHub Skyline:
 <div align="center">
   <img src="https://github.com/MalikAdan/ProfileContents-AM/assets/153263444/7a331724-e5e0-4d77-840b-7e2c2432bbfe" width="500" height="300"/> 
 </div>
