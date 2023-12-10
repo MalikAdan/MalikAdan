@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1scXYzcmZqcGxyMnNudXh0cTNwM2JycWdzZGV0N3Q3bTIwem03YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Exc6ymGbdFkeAVO/giphy.gif" width="200"/>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://pk.linkedin.com/in/adan-malik-85b815195">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -32,7 +32,7 @@
 
 - :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adan_Malik-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adan_Malik-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://pk.linkedin.com/in/adan-malik-85b815195))
 
 ---
 
