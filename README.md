@@ -22,11 +22,9 @@
 
 ### 👩‍💻 About Me :
 
-- 👩‍💼 I am a Petroleum Engineer from Pakistan.
+- 👩‍💼 I am a Petroleum Engineer working at Pakistan Petroleum Limited, one of the largest E&P companies in Pakistan.
 
 - 🥇 I hold B.E. Petroleum Engineering with distinction from NED University of Engineering & Technology, flagship engineering institution of Pakistan. 
-
-- :telescope: I’m working as a Petroleum Engineer at Pakistan Petroleum Limited.
 
 - :seedling: Keeping myself up-to-date with latest trends and programming skills.
 
