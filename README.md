@@ -35,12 +35,12 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Colab" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" title="Colab" alt="Colab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/S/schlumberger-petrel-software-simulation-logo-5F80386A5D-seeklogo.com.png" title="Petrel" alt="Petrel" width="40" height="40"/>&nbsp;
   <img src="https://www.petroleumsoftwares.com/wp-content/uploads/edd/2021/03/CMG.png" title="CMG" alt="CMG" width="40" height="40"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1062328011301834752/t7p0YH3n_400x400.jpg" title="PExperts" alt="PetroleumExperts" width="40" height="40"/>&nbsp;
+  <img src="https://horizon-perdana.co.id/wp-content/uploads/2020/04/Petex_Logo.portrait.png" title="PExperts" alt="PetroleumExperts" width="40" height="40"/>&nbsp;
   <img src="https://www.kappaeng.com/images/icons/256/saphir.png" title="Kappa" alt="Kappa" width="40" height="40"/>&nbsp;
 </div>
 
